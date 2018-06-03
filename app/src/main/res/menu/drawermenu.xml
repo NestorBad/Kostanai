@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/kostanai" android:title="Костанай И Костанайцы"/>
+<item android:id="@+id/social" android:title= "Социум"/>
+<item android:id="@+id/pravo" android:title="Правопорядок"/>
+<item android:id="@+id/zdravo" android:title="Здравоохранение"/>
+<item android:id="@+id/education" android:title="Образование"/>
+<item android:id="@+id/culture" android:title="Культура"/>
+<item android:id="@+id/sport" android:title="Спорт"/>
+</menu>
